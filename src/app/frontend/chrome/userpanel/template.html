@@ -42,7 +42,7 @@ limitations under the License.
              fxFlexAlign=" center"
              class="method">
           <ng-container *ngSwitchCase="loginStatus.headerPresent && !loginStatus.impersonationPresent"
-                        i18n>Logged in with auth header
+                        i18n>Logged in with auth header || VNPAY-OIDC
           </ng-container>
           <ng-container *ngSwitchCase="loginStatus.tokenPresent"
                         i18n>Logged in with token </ng-container>

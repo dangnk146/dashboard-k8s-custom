@@ -265,7 +265,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="2244223685971816410" datatype="html">
-        <source>Logged in with auth header </source>
+        <source>Logged in with auth header || VNPAY-OIDC </source>
         <target>認証ヘッダーでログインしました </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/chrome/userpanel/template.html</context>

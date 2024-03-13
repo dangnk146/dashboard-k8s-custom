@@ -253,8 +253,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="2244223685971816410" datatype="html">
-        <source>Logged in with auth header </source>
-        <target state="new">Logged in with auth header </target>
+        <source>Logged in with auth header || VNPAY-OIDC </source>
+        <target state="new">Logged in with auth header || VNPAY-OIDC </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/frontend/chrome/userpanel/template.html</context>
           <context context-type="linenumber">45,46</context>
